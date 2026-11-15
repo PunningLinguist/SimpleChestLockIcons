@@ -1,0 +1,139 @@
+title: Simple Chest Lock Icons
+originalAuthor: PunningLinguist
+description: Changes the keyblade icons for the Keyblades Lock Chests setting to the icons from Televo's Re:Collection
+assets:
+- name: itempic/item-044.imd #Oathkeeper (Twilight Town)
+  method: copy
+  source:
+  - name: LockIcons/tt.imd
+- name: itempic/item-047.imd #Hidden Dragon (Land of Dragons)
+  method: copy
+  source:
+  - name: LockIcons/lod.imd
+- name: itempic/item-048.imd #Hero's Crest (Olympus Coliseum)
+  method: copy
+  source:
+  - name: LockIcons/oc.imd
+- name: itempic/item-049.imd #Monochrome (Disney Castle/Timeless River)
+  method: copy
+  source:
+  - name: LockIcons/dc.imd
+- name: itempic/item-050.imd #Follow the Wind (Port Royal)
+  method: copy
+  source:
+  - name: LockIcons/pr.imd
+- name: itempic/item-051.imd #Circle of Life (Pride Lands)
+  method: copy
+  source:
+  - name: LockIcons/pl.imd
+- name: itempic/item-052.imd #Photon Debugger (Space Paranoids)
+  method: copy
+  source:
+  - name: LockIcons/sp.imd
+- name: itempic/item-054.imd #Rumbling Rose (Beast's Castle)
+  method: copy
+  source:
+  - name: LockIcons/bc.imd
+- name: itempic/item-056.imd #Wishing Lamp (Agrabah)
+  method: copy
+  source:
+  - name: LockIcons/ag.imd
+- name: itempic/item-057.imd #Decisive Pumpkin (Halloween Town)
+  method: copy
+  source:
+  - name: LockIcons/ht.imd
+- name: itempic/item-058.imd #Sleeping Lion (Hollow Bastion/Radiant Garden)
+  method: copy
+  source:
+  - name: LockIcons/hb.imd
+- name: itempic/item-059.imd #Sweet Memories (100 Acre Wood)
+  method: copy
+  source:
+  - name: LockIcons/100aw.imd
+- name: itempic/item-062.imd #Bond of Flame (Simulated Twilight Town)
+  method: copy
+  source:
+  - name: LockIcons/stt.imd
+- name: itempic/item-300.imd #Two Become One (The World That Never Was)
+  method: copy
+  source:
+  - name: LockIcons/tt.imd
+- name: itempic/item-301.imd #Winner's Proof (Cavern of Remembrance)
+  method: copy
+  source:
+  - name: LockIcons/cor.imd
+- name: remastered/itempic/item-044.imd/-0.dds #Oathkeeper (Twilight Town)
+  platform: pc
+  method: copy
+  source:
+  - name: LockIcons/tt.dds
+- name: remastered/itempic/item-047.imd/-0.dds #Hidden Dragon (Land of Dragons)
+  platform: pc
+  method: copy
+  source:
+  - name: LockIcons/lod.dds
+- name: remastered/itempic/item-048.imd/-0.dds #Hero's Crest (Olympus Coliseum)
+  platform: pc
+  method: copy
+  source:
+  - name: LockIcons/oc.dds
+- name: remastered/itempic/item-049.imd/-0.dds #Monochrome (Disney Castle/Timeless River)
+  platform: pc
+  method: copy
+  source:
+  - name: LockIcons/dc.dds
+- name: remastered/itempic/item-050.imd/-0.dds #Follow the Wind (Port Royal)
+  platform: pc
+  method: copy
+  source:
+  - name: LockIcons/pr.dds
+- name: remastered/itempic/item-051.imd/-0.dds #Circle of Life (Pride Lands)
+  platform: pc
+  method: copy
+  source:
+  - name: LockIcons/pl.dds
+- name: remastered/itempic/item-052.imd/-0.dds #Photon Debugger (Space Paranoids)
+  platform: pc
+  method: copy
+  source:
+  - name: LockIcons/sp.dds
+- name: remastered/itempic/item-054.imd/-0.dds #Rumbling Rose (Beast's Castle)
+  platform: pc
+  method: copy
+  source:
+  - name: LockIcons/bc.dds
+- name: remastered/itempic/item-056.imd/-0.dds #Wishing Lamp (Agrabah)
+  platform: pc
+  method: copy
+  source:
+  - name: LockIcons/ag.dds
+- name: remastered/itempic/item-057.imd/-0.dds #Decisive Pumpkin (Halloween Town)
+  platform: pc
+  method: copy
+  source:
+  - name: LockIcons/ht.dds
+- name: remastered/itempic/item-058.imd/-0.dds #Sleeping Lion (Hollow Bastion/Radiant Garden)
+  platform: pc
+  method: copy
+  source:
+  - name: LockIcons/hb.dds
+- name: remastered/itempic/item-059.imd/-0.dds #Sweet Memories (100 Acre Wood)
+  platform: pc
+  method: copy
+  source:
+  - name: LockIcons/100aw.dds
+- name: remastered/itempic/item-062.imd/-0.dds #Bond of Flame (Simulated Twilight Town)
+  platform: pc
+  method: copy
+  source:
+  - name: LockIcons/stt.dds
+- name: remastered/itempic/item-300.imd/-0.dds #Two Become One (The World That Never Was)
+  platform: pc
+  method: copy
+  source:
+  - name: LockIcons/tt.dds
+- name: remastered/itempic/item-301.imd/-0.dds #Winner's Proof (Cavern of Remembrance)
+  platform: pc
+  method: copy
+  source:
+  - name: LockIcons/cor.dds
